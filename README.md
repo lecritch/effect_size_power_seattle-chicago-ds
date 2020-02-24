@@ -1,0 +1,1 @@
+# effect_size_power_seattle-ds
